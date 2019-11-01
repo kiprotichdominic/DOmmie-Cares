@@ -5,7 +5,7 @@ body {
 }
 header {
   width: 80%;
-  margin: auto;
+  margin:auto;
   overflow: hidden;
 }
 .head {
@@ -27,5 +27,15 @@ li a {
   font-weight: bold;
 }
 .active {
-    color: gold;
+  color: gold;
+}
+showcase h1 {
+  color: #fff;
+  font-family: cursive;
+  text-align: center;
+}
+showcase h3 {
+  color: #fff;
+  text-align: center;
+  letter-spacing: 2px;
 }
