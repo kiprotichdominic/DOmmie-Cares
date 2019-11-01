@@ -1,0 +1,31 @@
+body {
+  background: url(../images/bg1.jpeg) no-repeat center center fixed;
+  background-size: cover;
+  font-family: sans-serif;
+}
+header {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+.head {
+  float: left;
+  color: #fff;
+  font-family: cursive;
+}
+
+nav {
+  float: right;
+}
+li {
+  display: inline;
+  padding: 1rem;
+}
+li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.active {
+    color: gold;
+}
